@@ -36,7 +36,7 @@ Transform your WooCommerce coupons into powerful marketing tools:
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/woocommerce-free-gifts` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/cupom-brindes-woocommerce` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Go to WooCommerce > Coupons to configure your free gifts and messages
 
